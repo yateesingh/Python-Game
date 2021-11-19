@@ -1,7 +1,7 @@
 # Python-Game
 # Problem Description
 
-- This project uses the pygame module to develop a basic game –“Super Mario” . The game’s protagonist – Mario can be moved left and right using the respective arrow keys. The main objective of the game is to dodge or kill the opponent (Goombas) .The player is awarded one point for dodging the opponent and five points for destroying the opponent. The player can dodge the opponent by pressing the space bar and jumping over it or kill the enemy by jumping onto the Goombas. The speed of the goombas increase as you score more points thus increasing the difficulty level as you progress in the game. Once you fail to duck the enemy the game is over.
+- This project uses the pygame module to develop a basic game  . The game’s protagonist – Mario can be moved left and right using the respective arrow keys. The main objective of the game is to dodge or kill the opponent (Goombas) .The player is awarded one point for dodging the opponent and five points for destroying the opponent. The player can dodge the opponent by pressing the space bar and jumping over it or kill the enemy by jumping onto the Goombas. The speed of the goombas increase as you score more points thus increasing the difficulty level as you progress in the game. Once you fail to duck the enemy the game is over.
  
 ## Python Modules Used:
 - ●	Pygame
