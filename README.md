@@ -13,3 +13,8 @@
 - 3.	def move_enemies(enemy_list,score): Updates the position of the enemy.
 - 4.	def collision(player_pos,enemy_pos): Checks for the collision of the player and the enemy.
 - 5.	def cloud_maker(cloud_list): Add some aesthetic value to the game .The function makes a list containing position of clouds , inserts the image and updates its position .
+
+## Output
+![](projgit1.png)
+![](save2.png)
+![](save3.png)
