@@ -3,7 +3,7 @@ import sys
 import random
 pygame.init()
 pygame.display.set_caption("MARIO - BUT BAD")
-
+hello="world"
 width=720
 height=480
 brown=(243,85,35)
